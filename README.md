@@ -7,7 +7,7 @@ NYCIslandora is a local community of Islandora users that meet to discuss succes
 
 
 ## Meetings
-We meet once per month for two hours, generally around the second week of the month. 
+Started in January 2017, the group meets once per month for two hours, generally around the second week of the month. 
 
 Meeting locations rotate among the members of the group.  Each member has an opportunity to host a meeting at his/her institution.
 
