@@ -1,7 +1,7 @@
 # NYCIslandora
 NYCIslandora is a local community of Islandora users that meet to discuss successes and challenges of using Islandora. If you’re working in Islandora, thinking about it, or just curious, then join NYCIslandora at one of our monthly meetups.  It is an opportunity to bring together local New York City information professionals working to create and build cultural heritage collections using Islandora.
 
-# Conveners
+## Conveners
 * Robin Naughton, The New York Academy of Medicine
 * Diego Pino Navarro, Metropolitan New York Library Council
 
