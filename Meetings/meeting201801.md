@@ -1,5 +1,8 @@
-# NYC Islandora Working Group Meeting Notes
-January 17, 2018 | 5 - 7PM | LaGuardia Community College
+# NYC Islandora Meeting: January 2018
+* Date: January 17, 2018
+* Time: 5 - 7PM 
+* Host: Thomas Cleary
+* Location: LaGuardia Community College
 
 ## ATTENDEES
 * Henry Raine (New-York Historical Society)
