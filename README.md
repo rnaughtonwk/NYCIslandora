@@ -11,5 +11,7 @@ Started in January 2017, the group meets once per month for two hours, generally
 
 Meeting locations rotate among the members of the group.  Each member has an opportunity to host a meeting at his/her institution.
 
+[2018 Meeting Schedule](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meetingschedule.md)
+
 ## Listserv
 [NYCIslandora Google Group](https://groups.google.com/forum/#!forum/nycislandora)
