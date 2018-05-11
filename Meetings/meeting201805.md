@@ -9,7 +9,8 @@
 ## ATTENDEES
 Please add your name if you plan to attend the meeting.
 * Robin Naughton (New York Academy of Medicine)
-* 
+* Karen Hwang (Metropolitan New York Library Council)
+*
 * 
 ## AGENDA
 * Welcome & Introductions
