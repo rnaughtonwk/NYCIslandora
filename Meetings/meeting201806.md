@@ -9,7 +9,7 @@
 ## ATTENDEES
 Please add your name if you plan to attend the meeting.
 
-*
+* Martha Tenney (Barnard College) 
 
 ## AGENDA
 * Welcome & Introductions
