@@ -40,7 +40,7 @@ Please add your name if you plan to attend the meeting.
     * Datastreams.io - pull content out, edit, and reupload.
     * Find and replace (module) - tool in Islandora
     * Computer workstations preloaded with items
-  * Example Class: Kim Pharm emailed an example of an introductory session she's done that will be valuable.
+  * Example Class: Kim Pham emailed an example of an introductory session she's done that will be valuable.
 
 
 * Panel Discussion
