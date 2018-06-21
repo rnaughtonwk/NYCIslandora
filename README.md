@@ -14,7 +14,7 @@ Meeting locations rotate among the members of the group.  Each member has an opp
 ### 2018 Meeting Schedule
 * [**Thursday, May 17, 2018**: The New York Academy of Medicine, 1216 5th Avenue, New York, NY 10029, 3rd floor.](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201805.md)
 * [**Thursday, June 14, 2018**: LaGuardia Community College, 31-10 Thomson Avenue, Long Island City, NY 11101](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201806.md)
-* July: Thursday 19
+* [**Thursday, July 19, 2018**](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201807.md)
 * August: Thursday 23
 * September: Thursday 20
 * October: Wednesday 17
