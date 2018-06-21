@@ -1,4 +1,4 @@
-# NYC Islandora Meeting: June 2018
+# NYC Islandora Meeting: July 2018
 * **Date:**  July 19,2018
 * **Time:** 3 - 5PM
 * **Host:** TBD
