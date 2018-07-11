@@ -11,6 +11,8 @@ Join the NYCIslandora Working Group for an open discussion about Islandora use c
 
 We invite anyone interested in learning more or contributing their own use case to the discussion to join us on July 19, 2018 at the New-York Historical Society.  
 
+[Download invite](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/NYCIslandoraWorkignGroup_201807.docx)
+
 ## ATTENDEES
 Please add your name if you plan to attend the meeting.
 
