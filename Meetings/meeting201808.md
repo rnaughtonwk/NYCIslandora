@@ -8,6 +8,7 @@
 
 ## ATTENDEES
 Please add your name if you plan to attend the meeting.
+
 *  
 
 ## AGENDA
@@ -19,4 +20,5 @@ Please add your name if you plan to attend the meeting.
 * Updates from the field
 
 ## Action Items
+
 *
