@@ -1,8 +1,8 @@
 # NYC Islandora Meeting: September 2018
 * **Date:**  September 20, 2018
 * **Time:** 3 - 5PM
-* **Host:** TBD
-* **Location:** TBD
+* **Host:** Martha Tenney
+* **Location:** [Barnard College, 3009 Broadway, New York, NY 10027](https://barnard.edu/about/visit/campus-map)
 * [NYCIslandora Google Group](https://groups.google.com/forum/#!forum/nycislandora)
 
 
@@ -10,6 +10,7 @@
 Please add your name if you plan to attend the meeting.
 
 * Henry Raine
+* Robin Naughton
 
 ## AGENDA
 * Welcome & Introductions
