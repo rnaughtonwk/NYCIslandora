@@ -35,7 +35,7 @@ Please add your name if you plan to attend the meeting.
   * Martha – working on audio digitization project. Idea from Robin - use programs to link out to the recordings. Idea from Henry - WNYC collection – look at audio. ICG is also looking for ISLE testers, see [google group message](https://groups.google.com/forum/#!topic/islandora-isle/f2EbgRpSDkE)
   * Thomas – starting to move the image on his machine onto Amazon, setting up photo batch uploads
   * Henry – a few major digitization projects: 7th regiment, METRO grant for photographs of celebrities, and NEH-funded subway construction photographs
-  * Robin – trying to finish a METRO grant, doing minimal metadata for now and will be doing more extensive metadata later. [Metadata working group](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group) is working on testing of CLAW release, not sure exactly how the metadata will work. (add link!)
+  * Robin – trying to finish a METRO grant, doing minimal metadata for now and will be doing more extensive metadata later. [Metadata working group](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group) is working on testing of CLAW release, not sure exactly how the metadata will work. 
 
 * **Note on scheduling – rescheduled the October meeting to Thursday 10/25, 3-5pm**
   
