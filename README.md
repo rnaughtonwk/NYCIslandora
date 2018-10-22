@@ -17,7 +17,7 @@ Meeting locations rotate among the members of the group.  Each member has an opp
 * [**Thursday, July 19, 2018**: New-York Historical Society Museum & Library, 170 Central Park West, New York, NY 10024](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201807.md)
 * [**Thursday, August 23, 2018**:The New York Academy of Medicine, 1216 5th Avenue, New York, NY 10029, 3rd floor.](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201808.md)
 * [**Thursday, September 20,2018**: Barnard College, 3009 Broadway, New York, NY 10027](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201809.md)
-* October: Wednesday 25
+* [**Thursday, October 25, 2018**: Metropolitan New York Library Council, 599 11th Av. New York, NY 10036](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201810.md)
 * November: Wednesday 14
 * December: Tuesday 18
 
