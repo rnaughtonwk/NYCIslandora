@@ -1,8 +1,9 @@
 # NYC Islandora Meeting: September 2018
 * **Date:**  October 25, 2018
 * **Time:** 3 - 5PM
-* **Host:** TBD
-* **Location:** TBD
+* **Host:** Diego Pino Navarro
+* **Location:** Metropolitan New York Library Council, 599 11th Av. New York, NY 10036
+
 * [NYCIslandora Google Group](https://groups.google.com/forum/#!forum/nycislandora)
 
 
