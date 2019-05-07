@@ -56,7 +56,7 @@ Martha / Barnard
 * CoC review for Islandora foundation - please fill out the the [survey](https://docs.google.com/forms/d/e/1FAIpQLSfwaj4kCLr6UwBdUD4oyRSGwtrHpYgJqJcnrYXl_Drg61xH7g/viewform)! Note about language justice
 
 Diego / METRO
-* [Archipelago Commons](archipelago.nyc)--attempt to rethink what a repository should be 
+* [Archipelago Commons](http://archipelago.nyc)--attempt to rethink what a repository should be 
 * Islandora 8 is too complicated to deploy/use, didn't feel sustainable
 * What is most important? Metadata - consistent experience for adding, editing, using metadata. Drupal thinks of metadata in a very flat way--flat lists of fields with hierarchies, limitations to fields, no possibilities for linked open data
 * Need to rethink metadata. Building a system that doesn't rely on schemas.
