@@ -12,6 +12,7 @@ Please add your name.
 * Henry Raine, New-York Historical Society
 * Albert Min, New-York Historical Society
 * Jerome Tan, New-York Historical Society
+* Martha Tenney, Barnard College
 
 ## AGENDA
 * Welcome & Introductions
