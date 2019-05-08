@@ -9,7 +9,9 @@
 ## ATTENDEES
 Please add your name.
 
-* 
+* Henry Raine, New-York Historical Society
+* Albert Min, New-York Historical Society
+* Jerome Tan, New-York Historical Society
 
 ## AGENDA
 * Welcome & Introductions
@@ -42,7 +44,7 @@ Karen / METRO
 * Summit on wikibase--now it's easier to download
 
 Henry, Jerome, Al / NY-Historical Society
-* Working on multiple digitization projects - subway construction photos, got an NEH grant to finish that work. Doing a lot of ingesting
+* Working on multiple digitization projects - NEH grant for subway construction photos, got a Delmas grant to finish that work. Doing a lot of ingesting
 * Money from Leon Levy foundation to work with born digital materials
 * Working on pulling in museum collections to Islandora. Museum data is in TMS
 * Had originally been trying to ingest everything and create metadata that would work for both collections. Now the approach is to get some reference objects. eMuseum uses Solr, can just pull from both Solr stores.
