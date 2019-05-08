@@ -9,7 +9,7 @@
 ## ATTENDEES
 Please add your name.
 
-* 
+* Karen Hwang, METRO
 
 ## AGENDA
 * Welcome & Introductions
@@ -32,14 +32,14 @@ Robin and Andrea / NYAM
 * Migrating their last collection from ContentDM - the Resurrectionists. Not using the API. Trying to think about how to reconstitute the collection, rather than just copying everything over. Also thinking about re-scanning. Is disparate objects, but they were bound together. 
 
 Karen / METRO
-* Harvesting collections, doing some batch edits
+* Harvesting collections for ESDN, doing some batch edits on DCMNY
 * How does everyone do find and replace? Using the module (updated by Diego to include regular expressions)? Other ways?
 * Henry uses a method to generate PIDs using Solr and then does updates using spreadsheets/multi-importer
 * Now the find and replace is being maintained 
-* Merging research on linked open data, wiki data into the Archipelago project. Spinoff group of Linked Data for Production -- Wikidata affinity group. Can share info for the group--calls every two weeks with case studies.
-* Wiki education is doing a one/two-day workshop on Wikidata for libraries. Wikidata is making a big push in being incorporated into the internet. Much more open than other controlled vocabularies. Less resistance than before from larger vocabularies (e.g. Getty, OCLC)
-* A little bit different than typical semantic ontologies--just more open
-* Summit on wikibase--now it's easier to download
+* Merging research on linked open data, Wikidata into the Archipelago project. Spinoff group of Linked Data for Production -- [Wikidata Affinity Group][https://wiki.duraspace.org/display/LD4P2/Wikidata+Affinity+Group]. Calls happen every two weeks with topics and case studies. Open to all.
+* Wiki education is doing a one/two-day workshop on Wikidata for libraries at METRO sometime in the summer or fall. Wikidata is being increasingly integrated into the Internet. For cataloging/archive: much more open than other standard controlled vocabularies. Less resistance than before from larger vocabularies (e.g. Getty, OCLC)
+* Documentation about ontologies more scarce when compared than typical semantic ontologies--but open, and has a growing number of [Wiki Project pages][https://www.wikidata.org/wiki/Wikidata:WikiProjects] that are discussion communities built around subjects
+* Summit on Wikibase (software behind Wikidata) in NYC for cultural heritage--Growing interest, now that it's easier to download/install (docker image)
 
 Henry, Jerome, Al / NY-Historical Society
 * Working on multiple digitization projects - subway construction photos, got an NEH grant to finish that work. Doing a lot of ingesting
