@@ -13,7 +13,7 @@ Meeting locations rotate among the members of the group.  Each member has an opp
 
 ### 2019 Meetings
 * [**Tuesday, July 16, 2019**: The New York Academy of Medicine, 1216 5th Avenue, New York, NY 10029, 3rd floor.](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201907.md)
-* [**Tuesday, June 11, 2019**: Metropolitan New York Library Council, 599 11th Av. New York, NY 10036](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201906.md)
+* [Tuesday, June 11, 2019: Metropolitan New York Library Council, 599 11th Av. New York, NY 10036](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201906.md)
 * [Tuesday, May 7,2019: Barnard College, 3009 Broadway, New York, NY 10027](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201905.md)
 
 ### 2018 Meetings
