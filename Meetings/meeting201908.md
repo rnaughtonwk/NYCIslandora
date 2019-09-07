@@ -56,7 +56,7 @@
 
 ### Workshops - METRO Series
 * OpenRefine Workshops - Karen's colleague's availability: Spring workshop
-* Do we want to do something for Archives Week or NYC DH Week? Webinar for Archives Week? Diverse collections around NYC that use Islandora. That way we don’t need a space, we could use something like Zoom.
+* Do we want to do something for Archives Week (October 16th - 23rd 2019) or NYC DH Week (February 2020)? Webinar for Archives Week? Diverse collections around NYC that use Islandora. That way we don’t need a space, we could use something like Zoom.
 
 * Archipelago - METRO shifting to this
   * Have the data play better together
