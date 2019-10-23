@@ -12,7 +12,7 @@ Started in January 2017, the group meets once per month for two hours, generally
 Meeting locations rotate among the members of the group.  Each member has an opportunity to host a meeting at his/her institution. Meetings are 3 - 5pm.
 
 ### 2019 Meetings
-* [**Monday, September 30, 2019**: Barnard College, 3009 Broadway, New York, NY 10027](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201909.md)
+* [**Monday, October 28, 2019**: Barnard College, 3009 Broadway, New York, NY 10027](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201910.md)
 * [Tuesday, August 27, 2019: New-York Historical Society Museum & Library, 170 Central Park West, New York, NY 10024](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201908.md)
 * [Tuesday, July 16, 2019: The New York Academy of Medicine, 1216 5th Avenue, New York, NY 10029, 3rd floor.](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201907.md)
 * [Tuesday, June 11, 2019: Metropolitan New York Library Council, 599 11th Av. New York, NY 10036](https://github.com/rnaughtonwk/NYCIslandora/blob/master/Meetings/meeting201906.md)
