@@ -37,7 +37,7 @@
     
 * Workshops
 	* Workshop ideas are in the [wiki](https://github.com/rnaughtonwk/NYCIslandora/wiki/Workshops). 
-	* Solr workshop - Karen will reach out to her contact to repeat a workshop at METRO or do a webinar. Robin is also talking to Audrey about this
+	* Solr workshop - Karen will reach out to her contact ([Hector Correa's Github](https://github.com/hectorcorrea/solr-for-newbies)) to repeat a workshop at METRO or do a webinar. Robin is also talking to Audrey about this
 	* OpenRefine - Karen is doing this workshop with someone else. 
 	* TWIG - maybe Diego would want to teach this?
 	* Something on metadata, more general interest; METRO is not interested in Islandora workshops currently but does want to support a series of workshops on digital collections
