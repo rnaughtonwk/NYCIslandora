@@ -1,7 +1,7 @@
 # NYC Islandora Meeting: December 2019 - Holiday Celebration
-* **Date:**  
+* **Date:**  December 17, 2018
 * **Time:** 3 - 5PM
-* **Location:** 
+* **Location:**  [UrbanSpace @ Vanderbilt - East 45th St. & Vanderbilt Ave.](https://www.urbanspacenyc.com/urbanspace-vanderbilt/)
 
 * [NYCIslandora Google Group](https://groups.google.com/forum/#!forum/nycislandora)
 
@@ -13,5 +13,5 @@ Please add your name if you plan to attend the meeting.
 
 ## AGENDA & NOTES
 * Welcome & Introductions
-* Eat, Drink & Be Merry!
 * Ideas for 2020
+* Eat, Drink & Be Merry!
