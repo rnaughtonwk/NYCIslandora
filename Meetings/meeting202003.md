@@ -1,7 +1,7 @@
 # NYC Islandora Meeting: March 2020
-* **Date:**  TBD
+* **Date:**  Tuesday, March 31, 2020
 * **Time:** 3 - 5PM
-* **Location:**  TBD
+* **Location:**  Zoom
 
 * [NYCIslandora Google Group](https://groups.google.com/forum/#!forum/nycislandora)
 
@@ -15,4 +15,3 @@ Please add your name if you plan to attend the meeting.
 * Welcome & Introductions
 * Workshops & Case Studies
 * Notes from the Field
-
