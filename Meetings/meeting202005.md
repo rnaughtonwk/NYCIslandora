@@ -1,5 +1,5 @@
 # NYC Islandora Meeting: May 2020
-* **Date:**  TBD
+* **Date:**  Wednesday, May 20, 2020
 * **Time:** 3 - 5PM
 * **Location:**  Zoom
 
