@@ -26,7 +26,7 @@ Please add your name if you plan to attend the meeting.
   * Margo - no updates
   * Diego - working more in archipelago - Islandora - three dogs :)
   * Martha - installed Islandora 8 to test
-  * Robin - continuing to work on manuscript project 
+  * Robin - continuing to work on manuscript project
 
 ### Metadata Presentation & Discussion
 The metadata presentation was very informative and walked through the process of identifying, developing, and enhancing metadata so that the digital collection can provide users with good information. There were many takeaways but here are a few ideas coming out of the discussion:
