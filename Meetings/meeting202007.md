@@ -1,5 +1,5 @@
-# NYC Islandora Meeting: June 2020
-* **Date:**  Tuesday, June 30, 2020
+# NYC Islandora Meeting: July 2020
+* **Date:**  Wednesday, July 29, 2020
 * **Time:** 3 - 5PM
 * **Location:**  Zoom
 
