@@ -7,7 +7,6 @@
 
 ## ATTENDEES
 Please add your name if you plan to attend the meeting.
-*
 
 ## AGENDA
 * Welcome
