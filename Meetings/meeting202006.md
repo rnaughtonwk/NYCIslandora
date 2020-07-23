@@ -7,13 +7,12 @@
 
 
 ## ATTENDEES
-Please add your name if you plan to attend the meeting.
 * Henry Raine, New-York Historical Society
 * Thomas Cleary, LaGuardia Community College
 * Miranda Schwartz, New York Academy of Medicine
 * Robin Naughton, New York Academy of Medicine
 
-## AGENDA & NOTES
+## NOTES
 * Welcome
 * Notes from the field
   * Henry - subway - 40% done - digital projects in the works - won't be back in the building until September.
