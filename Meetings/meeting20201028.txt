@@ -1,0 +1,28 @@
+# NYC Islandora Meeting: October 2020
+* **Date:**  Wednesday, October 28, 2020
+* **Time:** 4 - 5PM (ended 4:45)
+* **Location:**  Zoom (recorded to cloud)
+* [NYCIslandora Google Group](https://groups.google.com/forum/#!forum/nycislandora)
+
+## Attendees
+* Henry Raine, New-York Historical Society
+* Margo Padilla, New-York Historical Society
+* Thomas Cleary, LaGuardia Community College
+* Miranda Schwartz, New York Academy of Medicine
+* Margo Padilla, New-York Historical Society
+* Deborah Tint, Brooklyn Public Library
+* Allison Lund, Metropolitan New York Library Council
+* Deena Schwimmer, Yeshiva University
+
+## Open Discussion/Notes from the field 
+  * COVID collecting projects - Thomas, Margo and Deena discussed their institutions' COVID collecting projects. Issues raised include obtaining permissions, providing metadata, and capturing formats such as social media and memes.
+  * Transcribed oral histories in Islandora - Henry asked about making oral transcriptions available with their audio files for N-YHS' Columbus Avenue Business District collection.  There should be a solution pack to handle this.
+  * Migration from Islandora 7 - Some members are thinking about how to migrate from I7, and whether to implement I8 or another platform.  Deborah mentioned BPL's use of WIDEN, and offered to demo it at a future meeting. 
+  * Allison - reminded the group of Metro's Equity in Action grant program, which provides modest funding for projects documenting marginalized communities. Applications due 12/4 for current cycle
+  * Miranda -  completed enhancing metadata for NYAM's hospital postcard pilot collection
+  * Henry - Subway photo collection is about 75% completed
+  * Deborah - working on OpenRefine tutorials
+  
+  ## Next Steps 
+  * Will send poll to reschedule November/December meetings currently scheduled close to Thanksgiving/Christmas
+
