@@ -1,0 +1,28 @@
+# NYC Islandora Meeting: November 2020
+* **Date:**  Thursday, November 19, 2020
+* **Time:** 4 - 5PM (ended 5:15)
+* **Location:**  Zoom 
+* [NYCIslandora Google Group](https://groups.google.com/forum/#!forum/nycislandora)
+
+## Attendees
+* Henry Raine, New-York Historical Society
+* Thomas Cleary, LaGuardia Community College
+* Miranda Schwartz, New York Academy of Medicine
+* Diego Pino Navarro, Metropolitan New York Library Council
+* Deborah Tint, Brooklyn Public Library
+* Allison Lund, Metropolitan New York Library Council
+* Deena Schwimmer, Yeshiva University
+
+## Presentation: WIDEN DAMS (Deborah)
+ * Deborah gave a presentation on the WIDEN digital asset management system used at Brooklyn Public Library, demonstrating aspects of both its user interface and backend functionality.  A lively discussion followed, on topics such as workflow, ingesting, metadata and more.  
+
+## Notes from the field 
+  * Henry spoke about problems N-YHS is currently having with its Islandora system – not being able to ingest, slow image loading, etc.  Diego said this typically happens to installations with a large number of digital assets. They expect it to be resolved soon.
+  * Diego showed several things he’s been working on: IMI expanding PDFs to multiple pages in Islandora 7, and functionality in Archipelago such as working with archived web sites and finding aids, and enabling images to be notated.   
+* There was interest from the group in hearing more about Archipelago overall, possibly as a presentation at a future meeting.   
+
+  ## Next Steps 
+* Next meeting to be held Thursday, Dec. 17 from 4-5 PM.  
+
+
+ 
